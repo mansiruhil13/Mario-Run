@@ -16,7 +16,7 @@ If so, Mario Run is here to rekindle that nostalgia with a fresh and exciting tw
 
 ## 🚀 Features
 
-**💡Features:**
+**👩‍💻 Features:**
 1. Classic Mario experience: Relive the nostalgia with a simple 2D Mario Run.
 2. Endless running: Play for as long as you can survive, with increasingly difficult obstacles!
 3. Coin collection: Earn points by collecting coins along the way.
