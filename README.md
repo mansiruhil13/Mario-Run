@@ -84,5 +84,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request w
 ## 📧 Contact
 
 For any inquiries or feedback, please contact Mansi Ruhil at [LinkedIn](https://www.linkedin.com/in/mansi-ruhil-7a00a0228/).
-
-## ---THANKYOU---
