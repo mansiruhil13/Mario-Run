@@ -16,14 +16,14 @@ If so, Mario Run is here to rekindle that nostalgia with a fresh and exciting tw
 
 ## 🚀 Features
 
-Features
+**💡Features:**
 1. Classic Mario experience: Relive the nostalgia with a simple 2D Mario Run.
 2. Endless running: Play for as long as you can survive, with increasingly difficult obstacles!
 3. Coin collection: Earn points by collecting coins along the way.
 4. Smooth controls: Jump and move easily with intuitive controls.
 5. Responsive design: Enjoy on various screen sizes, optimized for desktop and mobile.
 
-**🌻 How to Play**
+**🌻 How to Play:**
 
 1. Run: Mario automatically runs forward.
 2. Jump: Press the spacebar (or tap on mobile) to jump over obstacles.
@@ -32,14 +32,14 @@ Features
 
 ## 💡 TechStacks:
 
-## Frontend:
+**Frontend**:
 
 1. HTML5: For structuring the game.
 2. CSS3: For styling and animations.
 3. JavaScript: For game logic and interactivity.
 4. Canvas API: For rendering the game visuals.
 
-## Development tools:
+**Development tools**:
 
 1. VS Code: A robust code editor for development.
 2. Git: Version control for tracking changes and collaborating.
@@ -85,6 +85,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request w
 
 For any inquiries or feedback, please contact Mansi Ruhil at [LinkedIn](https://www.linkedin.com/in/mansi-ruhil-7a00a0228/).
 
-## License:
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+## ---THANKYOU---
