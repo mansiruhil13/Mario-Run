@@ -1,12 +1,10 @@
-<div align="center">
-    <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="logo.png">
-</div>
-
-
-
 # 🎮 Mario-Run
 
 Welcome to A classic Mario Run game, a simple and fun endless runner game inspired by the classic Mario universe! 🏃‍♂️ Help Mario navigate through obstacles, collect coins, and go as far as you can!
+
+<div align="center">
+    <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="logo.png">
+</div>
 
 ## DESCRIPTION 📑
 
